@@ -27,5 +27,5 @@ Developing a Streamlit application that allows users to upload an image of a bus
   cd "file_path/main.py"
 
 # Moc Screen:
-
+![1](https://github.com/praveennandagopal/BusinessCard/assets/45605371/3ed7de65-17e3-4d04-bf7e-d654d8c59b3c)
 
