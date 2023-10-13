@@ -28,4 +28,11 @@ Developing a Streamlit application that allows users to upload an image of a bus
 
 # Moc Screen:
 ![1](https://github.com/praveennandagopal/BusinessCard/assets/45605371/3ed7de65-17e3-4d04-bf7e-d654d8c59b3c)
+![2](https://github.com/praveennandagopal/BusinessCard/assets/45605371/f5c7c3ef-0794-4877-a6fc-6caa2e98ba2f)
+![3](https://github.com/praveennandagopal/BusinessCard/assets/45605371/f4ad657e-0745-436d-9b5e-5228b229ec0f)
+![4](https://github.com/praveennandagopal/BusinessCard/assets/45605371/26af4361-79be-4026-b4a7-80b1ecf04bc0)
+
+![5](https://github.com/praveennandagopal/BusinessCard/assets/45605371/bcfacc01-1288-4594-9a77-45f82212eb64)
+
+
 
